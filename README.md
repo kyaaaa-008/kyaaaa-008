@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Naufal Azkia</h1>
-<h3 align="center">Cuman bisa PHP dan sedikit JS</h3>
+[//]: # (<h1 align="center">Hi 👋, I'm Naufal Azkia</h1>)
+
+[//]: # (<h3 align="center">Cuman bisa PHP dan sedikit JS</h3>)
 <p align="center"><a href="https://discord.com/users/210046081709375488" target="_blank" rel="noreferrer"><img align="center" src="https://lanyard.cnrad.dev/api/210046081709375488" alt="naufkia" /></a></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naufkia&theme=dracula" alt="naufkia" /></p>
