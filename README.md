@@ -1,4 +1,3 @@
-nothing here.
 [//]: # (<h1 align="center">Hi 👋, I'm Naufal Azkia</h1>)
 
 [//]: # (<h3 align="center">Cuman bisa PHP dan sedikit JS</h3>)
@@ -8,3 +7,4 @@ nothing here.
 
 [//]: #  (<p align="center"><a href="https://nauf.biz.id/donate" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Traktir" /></a></p>)
 
+nothing here.
